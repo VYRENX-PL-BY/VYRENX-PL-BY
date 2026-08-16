@@ -29,12 +29,13 @@ Slowly but surely becoming a better version of myself.
 
 <div align="center">
 
-| | |
-|---|---|
-| Having fun | more than I probably should |
-| Learning | new things, when the mood hits |
-| Working on myself | discipline still loading |
-| Status | stable instability |
+![Having fun](https://img.shields.io/badge/HAVING%20FUN-more%20than%20I%20probably%20should-000000?style=for-the-badge&labelColor=0E3A5F&color=000000)
+<br>
+![Learning](https://img.shields.io/badge/LEARNING-new%20things%2C%20when%20the%20mood%20hits-000000?style=for-the-badge&labelColor=0E3A5F&color=000000)
+<br>
+![Working on myself](https://img.shields.io/badge/WORKING%20ON%20MYSELF-discipline%20still%20loading-000000?style=for-the-badge&labelColor=0E3A5F&color=000000)
+<br>
+![Status](https://img.shields.io/badge/STATUS-stable%20instability-000000?style=for-the-badge&labelColor=0E3A5F&color=000000)
 
 </div>
 
@@ -60,7 +61,7 @@ Slowly but surely becoming a better version of myself.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=VYRENX-PL-BY&hide_border=true&include_all_commits=false&count_private=true&title_color=4FC3F7&text_color=FFFFFF&icon_color=1B8EC2&bg_color=000000&border_radius=25" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=VYRENX-PL-BY&hide_border=true&include_all_commits=false&count_private=true&title_color=4FC3F7&text_color=FFFFFF&icon_color=1B8EC2&bg_color=000000&border_radius=25" width="85%"/>
 
 </div>
 
