@@ -31,10 +31,10 @@ Slowly but surely becoming a better version of myself.
 
 | | |
 |---|---|
-| 🎮 Having fun | more than I probably should |
-| 📚 Learning | new things, when the mood hits |
-| 🌀 Working on myself | discipline still loading |
-| 🧊 Status | stable instability |
+| Having fun | more than I probably should |
+| Learning | new things, when the mood hits |
+| Working on myself | discipline still loading |
+| Status | stable instability |
 
 </div>
 
@@ -51,7 +51,8 @@ Slowly but surely becoming a better version of myself.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,github,git,linux,bash&theme=dark"/>
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark"/></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
 
 </div>
 
@@ -95,7 +96,7 @@ Slowly but surely becoming a better version of myself.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=VYRENX-PL-BY&color=1B8EC2&style=flat&label=Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=VYRENX-PL-BY&style=for-the-badge&color=0E3A5F&labelColor=000000&label=PROFILE+VIEWS)
 
 </div>
 
